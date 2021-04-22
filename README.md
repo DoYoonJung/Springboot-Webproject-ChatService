@@ -7,7 +7,8 @@ Springboot-Webproject-ChatService-개망톡
 </br>
 
 프로젝트 API 서버 주소:  
-프로젝트 웹 서버 주소: http://gaemangtalk.site/
+프로젝트 웹 서버 주소: http://gaemangtalk.site/  
+프론트엔드 레포지토리 주소: https://github.com/greedysiru/gaemangtalk_frontend
 
 
 </br>
